@@ -19,9 +19,9 @@ A four-lane rhythm game written in Java using AWT/Swing and **hsa2.GraphicsConso
 ## Game Modes (overview)
 | Mode   | Speed / Density | Audience |
 |--------|------------------|----------|
-| Easy   | Slow / Sparse    | Learn timing |
-| Normal | Medium           | Core experience |
-| Hard   | Fast / Dense     | For experts |
+| Easy   | Slow / Sparse    | Beginners |
+| Normal | Medium           | Intermediates |
+| Hard   | Fast / Dense     | Experts |
 
 > Exact constants (tile speed, spawn interval, grading line `YLINE`) are set inside each mode class.
 
