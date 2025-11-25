@@ -28,7 +28,7 @@ A four-lane rhythm game written in Java using AWT/Swing and **hsa2.GraphicsConso
 ---
 
 ## Controls
-- **Lanes:** `A S D F` (left → right)
+- **Lanes:** `D F H J` (left → right)
 - **Quit window:** standard window close
 - **From Intro:** click a mode button to start
 
